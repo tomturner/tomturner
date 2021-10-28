@@ -7,3 +7,4 @@
 *  [Django Tenants](https://github.com/django-tenants/django-tenants)
 *  [Django Modals](https://github.com/jonesim/django-modals)
 *  [Django Datatables](https://github.com/jonesim/django-datatables)
+*  [Django Menus](https://github.com/jonesim/django-menus)
