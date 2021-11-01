@@ -8,3 +8,4 @@
 *  [Django Modals](https://github.com/jonesim/django-modals)
 *  [Django Datatables](https://github.com/jonesim/django-datatables)
 *  [Django Menus](https://github.com/jonesim/django-menus)
+*  [Ajax Helpers](https://github.com/jonesim/ajax-helpers)
