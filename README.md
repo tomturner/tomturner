@@ -9,4 +9,4 @@
 *  [Django Datatables](https://github.com/jonesim/django-datatables)
 *  [Django Menus](https://github.com/jonesim/django-menus)
 *  [Ajax Helpers](https://github.com/jonesim/ajax-helpers)
-*  [Django advanced report builder] (https://github.com/django-advance-utils/django-advanced-report-builder)
+*  [Django advanced report builder](https://github.com/django-advance-utils/django-advanced-report-builder)
