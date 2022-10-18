@@ -12,3 +12,4 @@
 *  [Django Cards](https://github.com/django-advance-utils/django-cards)
 *  [Django advanced report builder](https://github.com/django-advance-utils/django-advanced-report-builder)
 *  [Encrypted Credentials](https://github.com/jonesim/encrypted-credentials)
+*  [Django two factor](https://github.com/jonesim/django-2fa)
