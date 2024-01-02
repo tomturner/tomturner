@@ -8,6 +8,7 @@
 *  [Django Modals](https://github.com/jonesim/django-modals)
 *  [Django Datatables](https://github.com/jonesim/django-datatables)
 *  [Django Menus](https://github.com/jonesim/django-menus)
+*  [django backup](https://github.com/jonesim/django-gdrive-backup)
 *  [Ajax Helpers](https://github.com/jonesim/ajax-helpers)
 *  [Django Cards](https://github.com/django-advance-utils/django-cards)
 *  [Django advanced report builder](https://github.com/django-advance-utils/django-advanced-report-builder)
