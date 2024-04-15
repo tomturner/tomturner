@@ -1,6 +1,3 @@
-  ![TomTurner github stats](https://github-readme-stats.vercel.app/api?username=tomturner&show_icons=true&theme=dark&include_all_commits=true)
-
-
 
 # Main repo's
 
@@ -16,5 +13,7 @@
 *  [Encrypted Credentials](https://github.com/jonesim/encrypted-credentials)
 *  [Django two factor](https://github.com/jonesim/django-2fa)
 
+# Stats
+  ![TomTurner github stats](https://github-readme-stats.vercel.app/api?username=tomturner&show_icons=true&theme=dark&include_all_commits=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomturner&" alt="tomturner" /></p>
