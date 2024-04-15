@@ -15,3 +15,6 @@
 *  [Django advanced report builder](https://github.com/django-advance-utils/django-advanced-report-builder)
 *  [Encrypted Credentials](https://github.com/jonesim/encrypted-credentials)
 *  [Django two factor](https://github.com/jonesim/django-2fa)
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomturner&" alt="tomturner" /></p>
