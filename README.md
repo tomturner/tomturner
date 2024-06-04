@@ -12,7 +12,7 @@
 *  [Django advanced report builder](https://github.com/django-advance-utils/django-advanced-report-builder)
 *  [Encrypted Credentials](https://github.com/jonesim/encrypted-credentials)
 *  [Django two factor](https://github.com/jonesim/django-2fa)
-*  [HTML Classes](https://github.com/jonesim/html-classes))
+*  [HTML Classes](https://github.com/jonesim/html-classes)
 
 # Stats
   ![TomTurner github stats](https://github-readme-stats.vercel.app/api?username=tomturner&show_icons=true&theme=dark&include_all_commits=true)
