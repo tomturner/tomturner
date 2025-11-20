@@ -9,9 +9,9 @@
 *  [Django Backup](https://github.com/jonesim/django-gdrive-backup)
 *  [Ajax Helpers](https://github.com/jonesim/ajax-helpers)
 *  [Django Cards](https://github.com/django-advance-utils/django-cards)
-*  [Django advanced report builder](https://github.com/django-advance-utils/django-advanced-report-builder)
+*  [Django Advanced Report Builder](https://github.com/django-advance-utils/django-advanced-report-builder)
 *  [Encrypted Credentials](https://github.com/jonesim/encrypted-credentials)
-*  [Django two factor](https://github.com/jonesim/django-2fa)
+*  [Django Two Factor](https://github.com/jonesim/django-2fa)
 *  [HTML Classes](https://github.com/jonesim/html-classes)
 
 # Stats
